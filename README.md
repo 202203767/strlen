@@ -8,6 +8,7 @@ strlen2.cはmy_strlenを作成し、汎用性の高いものにしている。
 
 使い方（strlen1.cとstrlen2.cどちらも使い方は同じ）
 ※input_charをダウンロードしてから実行すること。
+※本リポジトリについてはinput_charは入っていないのでinput_charをcloneしてから本リポジトリをcloneすること。
 
 $ gcc strlen1.c ../input_char/input_char.c
 $ ./a.out
