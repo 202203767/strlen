@@ -7,6 +7,7 @@ strlen1.cはmein関数内にすべての処理をまとめたもの。
 strlen2.cはmy_strlenを作成し、汎用性の高いものにしている。
 
 使い方（strlen1.cとstrlen2.cどちらも使い方は同じ）
+※input_charをダウンロードしてから実行すること。
 
 $ gcc strlen1.c ../input_char/input_char.c
 $ ./a.out
